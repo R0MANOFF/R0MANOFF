@@ -1,9 +1,14 @@
+## Here is Nathasha 👋
+Pronouns: (She/Her) 👩‍💻
+ 
+<img src="README.png">
 
-### Hell0 world!! 
-### Here is Nathasha (she/her) 👋
+<br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R0MANOFF&theme=tokyonight&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R0MANOFF&theme=tokyonight&show_icons=true&hide_border=TRUE)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R0MANOFF&layout=compact&theme=tokyonight&hide_border=TRUE)](https://github.com/R0MANOFF/github-readme-stats)
+
+
 
 
 
