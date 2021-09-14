@@ -6,7 +6,7 @@ Pronouns: (She/Her) 👩‍💻
 <br>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R0MANOFF&theme=tokyonight&show_icons=true&hide_border=TRUE)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R0MANOFF&layout=compact&theme=tokyonight&hide_border=TRUE)](https://github.com/R0MANOFF/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R0MANOFF&theme=tokyonight&show_icons=true&hide_border=TRUE)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R0MANOFF&layout=compact&theme=tokyonight&hide_border=TRUE&langs_count=8)](https://github.com/R0MANOFF/github-readme-stats)
 
 
 <br>
